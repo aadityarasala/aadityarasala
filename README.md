@@ -1,4 +1,4 @@
-<h1 align="center"> <center><img src="https://github.com/aadityarasala/Hero/blob/main/39610-design.gif"  width="400"></h1>
+<h1 align="center"> <center><img src="https://github.com/aadityarasala/aadityarasala/blob/main/39610-design.gif"  width="400"></h1>
 
 
 <h1 align="center">Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, This is Rasala Aaditya</h1>
